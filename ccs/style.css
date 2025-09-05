@@ -1,0 +1,20 @@
+h1, h2, h3, h4, h5, h6{
+    color: coral
+}
+
+p {
+    color: khaki;
+}
+
+#titulo {
+    background-color: aquamarine;
+}
+
+#vegetais {
+    background-color: red;
+    padding: 10xp;
+
+}
+.usabilidade {
+    color: blue;
+}
